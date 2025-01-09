@@ -105,13 +105,11 @@ graph TD
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Your Name** - *Initial work* - [YourGitHub](https://github.com/nandanpatkar)
 
 ## 🙏 Acknowledgments
 
@@ -121,7 +119,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📞 Support
 
-For support, email example@domain.com or join our Slack channel.
+For support, email nandanpatkar14114@gmail.com 
 
 ---
 ⭐️ If you found this project helpful, please consider giving it a star!
