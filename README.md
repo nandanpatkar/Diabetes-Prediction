@@ -1,6 +1,6 @@
 
 # 🏥 Diabetes Prediction System
-
+![Uploading Screenshot 2025-01-09 at 3.46.21 PM.png…]()
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.15%2B-red)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0%2B-orange)
