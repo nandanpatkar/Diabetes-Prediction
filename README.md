@@ -1,6 +1,6 @@
 
 # 🏥 Diabetes Prediction System
-![Uploading Screenshot 2025-01-09 at 3.46.21 PM.png…]()
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.15%2B-red)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0%2B-orange)
@@ -76,11 +76,6 @@ The system expects a CSV file with the following columns:
 | Age                      | Age in years                          | Integer |
 | Outcome                  | Diabetes diagnosis (0=No, 1=Yes)      | Integer |
 
-## 🖼️ Screenshots
-
-![Dashboard](https://via.placeholder.com/800x400.png?text=Dashboard+Screenshot)
-![Predictions](https://via.placeholder.com/800x400.png?text=Predictions+Screenshot)
-![Analytics](https://via.placeholder.com/800x400.png?text=Analytics+Screenshot)
 
 ## 🛠️ Technical Architecture
 
